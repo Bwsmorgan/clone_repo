@@ -1,0 +1,59 @@
+commit 6af956fd9d10f9317de9b2b11773347948f81557
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:22:43 2023 -0500
+
+    committing file5.txt
+
+commit 0fd299c76578b1489c672e214f9c1bfc7da3d8e6
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:22:22 2023 -0500
+
+    committing file4.txt
+
+commit ce13f702404bb9f11e3d03809ee4e83d256fc99b
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:22:00 2023 -0500
+
+    committing file3.txt
+
+commit 1588b89c738ae23792befbbac3398157caa67a49
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:21:42 2023 -0500
+
+    committing file2.txt
+
+commit a0677739ff61348de8764394e011cac62abcb3cc
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:20:04 2023 -0500
+
+    added a sixth line to file1.txt
+
+commit ce57c6069307b5b060bab29fd6c5c88ce8836ff4
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:19:25 2023 -0500
+
+    added a fifth line to file.txt
+
+commit 6abf272a14a8c54f596317991960106198e88bc3
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:18:39 2023 -0500
+
+    added a fourth line to file.txt
+
+commit 78d30c140959ad1b415c69068601804bfe335c7e
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:18:00 2023 -0500
+
+    added a third line to file1.txt
+
+commit b0993dc923da9c9f536394e1e6f51d289e0f0c8e
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:16:59 2023 -0500
+
+    added new line to file.txt
+
+commit c130541a5346629ac4cb39f8f6491013081a57a6
+Author: Brendan Morgan <bmo_32@hotmail.com>
+Date:   Sat Dec 9 08:15:11 2023 -0500
+
+    committing file1.txt
